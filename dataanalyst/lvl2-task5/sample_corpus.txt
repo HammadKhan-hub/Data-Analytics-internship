@@ -1,0 +1,5 @@
+
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data. Data science is related to data mining, machine learning and big data. 
+Machine learning is a study of computer algorithms that improve automatically through experience and by the use of data. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed.
+Natural language processing is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language. Autocomplete and autocorrect algorithms are essential natural language processing features used in search engines and modern keyboard applications.
+Data analytics focuses on analyzing raw data to find trends and answer metrics. Machine learning models provide powerful prediction tools for data science projects.
